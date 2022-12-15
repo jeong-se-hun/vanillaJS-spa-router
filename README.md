@@ -4,5 +4,3 @@
 
 1. npm i
 2. npm start
-
-vanillaJS-spa-router
