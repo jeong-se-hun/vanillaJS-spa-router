@@ -1,4 +1,4 @@
-import { Home, Menu1, Menu2, Menu3, NotFound } from './pages.js';
+import { Home, Menu1, Menu2, Menu3, NotFound } from './components.js';
 
 const $root = document.getElementById('root');
 const $nav = document.querySelector('.nav');
